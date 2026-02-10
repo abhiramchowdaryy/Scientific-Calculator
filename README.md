@@ -32,9 +32,7 @@ This is a modern, feature-rich **Scientific Calculator GUI** application develop
 ---
 
 ## 🚀 How to Run
+- Install PyQT5
+- pip install PyQt5
 
-### 1️⃣ Clone or Download the Project
-
-```bash
-git clone https://github.com/yourusername/scientific-calculator-pyqt5.git
-cd scientific-calculator-pyqt
+- python3 scientific_calculator.py
